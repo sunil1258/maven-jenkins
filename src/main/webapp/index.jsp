@@ -5,6 +5,7 @@
 <h2>hello jenkins</h2>
 <h3>hello maven</h3>
 <h2>hello Sunil</h2>
+<h2>war file</h2>
 =======
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
